@@ -11,7 +11,7 @@ namespace Lab1
         static void Main(string[] args)
         {
 
-            char[] grid = { '1', '2', '3', '4', '5', '6', '7', '8', '0' };
+            char[] grid = { '1', '2', '3', '4', '5', '6', '7', '8', '9' };
             bool turn = false;
             while (true)
             {
